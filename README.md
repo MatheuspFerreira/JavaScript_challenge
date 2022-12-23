@@ -1,4 +1,4 @@
-# JavaScrip challenge
+# JavaScript challenge
 ## Prime number challenge 
 
 Goals: </br>
